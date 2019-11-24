@@ -32,7 +32,7 @@ menu {
     padding-left: 0;
     font-weight: bold;
 }
-.menuSection:hover {background-color: #912f3c;}
+.menuSection:hover {background-color: #912f3c; cursor: pointer;}
 
 main {
     width: 80vw;
